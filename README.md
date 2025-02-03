@@ -1,4 +1,4 @@
-# 🚀 **Nicolas Mustermann - Data Analyst Portfolio**  
+# 🚀 **Nico Masterschool - Data Analyst Portfolio**  
 
 👋 Hi, I’m Nicolas! With a background in data analysis and a passion for turning data into actionable insights, I’m constantly solving real-world problems using SQL, Python, Excel, and visualization tools like Tableau and Power BI. I enjoy exploring patterns, trends, and business opportunities hidden within data.  
 
