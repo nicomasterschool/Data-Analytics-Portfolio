@@ -10,7 +10,7 @@ Whether working independently or in teams, I focus on impactful analyses, storyt
 
 - [About Me](#about-me)  
 - [Portfolio Projects](#portfolio-projects)  
-  - [Unicorn Company: Data Exploration & Insights (SQL + Tableau)](#unicorn-company-data-exploration--insights-sql--tableau)  
+  - [Unicorn Company: Data Exploration & Insights (SQL + Tableau)](##unicorn-company-data-exploration--insights-sql--tableau)  
   - [Car Data Analysis (Python)](#car-data-analysis-python)  
 - [Education](#education)  
 - [Certificates](#certificates)  
