@@ -11,7 +11,7 @@ Whether working independently or in teams, I focus on impactful analyses, storyt
 - [About Me](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#-about-me)  
 - [Portfolio Projects](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#-portfolio-projects)  
   - [Unicorn Company: Data Exploration & Insights (SQL + Tableau)](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#--1-unicorn-company-data-exploration--insights-sql--tableau)  
-  - [Car Data Analysis (Python)](#car-data-analysis-python)  
+  - [Car Data Analysis (Python)](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#--2-car-data-analysis-python)  
 - [Education](#education)  
 - [Certificates](#certificates)  
 - [Contact](#contact)
