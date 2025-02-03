@@ -28,7 +28,7 @@ In my free time, I enjoy working on side projects that involve discovering hidde
 
 ## 📊 **Portfolio Projects**  
 
-### **1. Unicorn Company: Data Exploration & Insights (SQL + Tableau)**  
+### ** 🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau)**  
 
 **Goal:** To perform in-depth data exploration using SQL and build an executive-level dashboard with Tableau to provide insights and business recommendations.  
 
@@ -64,7 +64,7 @@ The project involved exploring Unicorn Company’s sales, profit, and customer d
 
 ---
 
-### **2. Car Data Analysis (Python)**  
+### ** 🚗 2. Car Data Analysis (Python)**  
 
 **Goal:** To clean, transform, and analyze a dataset of car specifications and pricing to uncover market trends and relationships.  
 
