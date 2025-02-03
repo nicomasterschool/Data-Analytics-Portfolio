@@ -100,9 +100,9 @@ This project focused on using Python for data cleaning, feature engineering, and
 ---
 
 ## 📜 **Certificates**  
-- SQL for Data Science  
+- SQL for Data Analytics 
 - Python for Data Analysis  
-- Power BI Advanced Visualization Techniques  
+- Tableau Advanced Visualization Techniques  
 
 ---
 
