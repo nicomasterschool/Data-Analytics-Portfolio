@@ -8,7 +8,7 @@ Whether working independently or in teams, I focus on impactful analyses, storyt
 
 ## 🗂️ **Table of Contents**  
 
-- [About Me](#about-me)  
+- [About Me](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#-about-me)  
 - [Portfolio Projects](#portfolio-projects)  
   - [Unicorn Company: Data Exploration & Insights (SQL + Tableau)](##unicorn-company-data-exploration--insights-sql--tableau)  
   - [Car Data Analysis (Python)](#car-data-analysis-python)  
