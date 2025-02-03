@@ -95,8 +95,7 @@ This project focused on using Python for data cleaning, feature engineering, and
 ---
 
 ## 🎓 **Education**  
-- **Data Analytics at Masterschool (in Progress)**  
-- **Bachelor’s in Biochemistry**  
+- **Data Analytics at Masterschool (in Progress)** 
 
 ---
 
