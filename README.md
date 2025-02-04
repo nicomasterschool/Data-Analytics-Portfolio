@@ -28,7 +28,7 @@ In my free time, I enjoy working on side projects that involve discovering hidde
 
 ## 📊 **Portfolio Projects**  
 
-### ** 🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau)**  
+### ** 🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau) (https://github.com/nicomasterschool/unicorn_project)**  
 
 **Goal:** To perform in-depth data exploration using SQL and build an executive-level dashboard with Tableau to provide insights and business recommendations.  
 
