@@ -28,7 +28,38 @@ In my free time, I enjoy working on side projects that involve discovering hidde
 
 ## 📊 **Portfolio Projects**  
 
-### ** [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau)] ** (https://github.com/nicomasterschool/unicorn_project) 
+
+# 🚀 **Nicolas Mustermann - Data Analyst Portfolio**  
+
+👋 Hi, I’m Nicolas! With a background in data analysis and a passion for turning data into actionable insights, I’m constantly solving real-world problems using SQL, Python, Excel, and visualization tools like Tableau and Power BI. I enjoy exploring patterns, trends, and business opportunities hidden within data.  
+
+Whether working independently or in teams, I focus on impactful analyses, storytelling, and building meaningful solutions for business growth. On this GitHub, you’ll find some of my most exciting data analytics projects. Let’s explore together!  
+
+---
+
+## 🗂️ **Table of Contents**  
+
+- [About Me](#about-me)  
+- [Portfolio Projects](#portfolio-projects)  
+  - [🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/nicomasterschool/unicorn_project)  
+  - [2. Car Data Analysis (Python)](#2-car-data-analysis-python)  
+- [Education](#education)  
+- [Certificates](#certificates)  
+- [Contact](#contact)  
+
+---
+
+## 👨‍💻 **About Me**  
+
+🎓 I’m currently completing my Master’s in Data Science, combining my technical background with a passion for using data to solve real-world problems. With hands-on experience in data cleaning, transformation, and visualization, I’m always looking to collaborate on new projects and expand my skill set.  
+
+In my free time, I enjoy working on side projects that involve discovering hidden patterns and building dashboards to help others make sense of data. I thrive on challenges and am always eager to share insights that lead to better business decisions.  
+
+---
+
+## 📊 **Portfolio Projects**  
+
+### **[🦄 1. Unicorn Company: Data Exploration & Insights (SQL + Tableau + Google Sheets)](https://github.com/nicomasterschool/unicorn_project)**  
 
 **Goal:** To perform in-depth data exploration using SQL and build an executive-level dashboard with Tableau to provide insights and business recommendations.  
 
