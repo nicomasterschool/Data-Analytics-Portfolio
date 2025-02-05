@@ -51,7 +51,7 @@ Whether working independently or in teams, I focus on impactful analyses, storyt
 
 ## 👨‍💻 **About Me**  
 
-🎓 I’m currently completing my Master’s in Data Science, combining my technical background with a passion for using data to solve real-world problems. With hands-on experience in data cleaning, transformation, and visualization, I’m always looking to collaborate on new projects and expand my skill set.  
+🎓 I’m currently working as a data analyst, combining my technical background with a passion for using data to solve real-world problems. With hands-on experience in data cleaning, transformation, and visualization, I’m always looking to collaborate on new projects and expand my skill set.  
 
 In my free time, I enjoy working on side projects that involve discovering hidden patterns and building dashboards to help others make sense of data. I thrive on challenges and am always eager to share insights that lead to better business decisions.  
 
