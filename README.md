@@ -51,7 +51,7 @@ The project involved exploring Unicorn Company’s sales, profit, and customer d
 - Tableau: Data visualization and dashboard building  
 - Business insights and recommendations  
 
-**Technology:** SQL Server, Tableau  
+**Technology:** PostgreSQL, Tableau  
 
 **Key Insights:**  
 - Identified the most profitable cities, customer types, and products across different regions.  
