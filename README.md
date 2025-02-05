@@ -1,20 +1,8 @@
-# 🚀 **Nico Masterschool - Data Analyst Portfolio**  
+# 🚀 **Nicolas Mustermann - Data Analyst Portfolio**  
 
-👋 Hi, I’m Nico! With a background in data analysis and a passion for turning data into actionable insights, I’m constantly solving real-world problems using SQL, Python, Excel, and visualization tools like Tableau and Power BI. I enjoy exploring patterns, trends, and business opportunities hidden within data.  
+👋 Hi, I’m Nicolas! With a background in data analysis and a passion for turning data into actionable insights, I’m constantly solving real-world problems using SQL, Python, Excel, and visualization tools like Tableau and Power BI. I enjoy exploring patterns, trends, and business opportunities hidden within data.  
 
 Whether working independently or in teams, I focus on impactful analyses, storytelling, and building meaningful solutions for business growth. On this GitHub, you’ll find some of my most exciting data analytics projects. Let’s explore together!  
-
----
-
-## 🗂️ **Table of Contents**  
-
-- [About Me](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#-about-me)  
-- [Portfolio Projects](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#-portfolio-projects)  
-  - [Unicorn Company: Data Exploration & Insights (SQL + Tableau)](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#--1-unicorn-company-data-exploration--insights-sql--tableau)  
-  - [Car Data Analysis (Python)](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#--2-car-data-analysis-python)  
-- [Education](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#-education)  
-- [Certificates](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#-certificates)  
-- [Contact](https://github.com/nicomasterschool/Data-Analytics-Portfolio?tab=readme-ov-file#-contact)
 
 ---
 
@@ -23,17 +11,6 @@ Whether working independently or in teams, I focus on impactful analyses, storyt
 🎓 I’m currently working as a data analyst, combining my technical background with a passion for using data to solve real-world problems. With hands-on experience in data cleaning, transformation, and visualization, I’m always looking to collaborate on new projects and expand my skill set.  
 
 In my free time, I enjoy working on side projects that involve discovering hidden patterns and building dashboards to help others make sense of data. I thrive on challenges and am always eager to share insights that lead to better business decisions.  
-
----
-
-## 📊 **Portfolio Projects**  
-
-
-# 🚀 **Nicolas Mustermann - Data Analyst Portfolio**  
-
-👋 Hi, I’m Nicolas! With a background in data analysis and a passion for turning data into actionable insights, I’m constantly solving real-world problems using SQL, Python, Excel, and visualization tools like Tableau and Power BI. I enjoy exploring patterns, trends, and business opportunities hidden within data.  
-
-Whether working independently or in teams, I focus on impactful analyses, storytelling, and building meaningful solutions for business growth. On this GitHub, you’ll find some of my most exciting data analytics projects. Let’s explore together!  
 
 ---
 
